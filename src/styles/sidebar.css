@@ -263,6 +263,7 @@ BOUTTON MAIN ELEMENT
   flex-wrap: nowrap;
   flex-direction: row;
   color: color-mix(in srgb, var(--sidebar-text) 70%, transparent);
+  text-decoration: none;
   transition: none;
 }
 
